@@ -1,0 +1,286 @@
+body{
+    border: 2px solid #00c3ff;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.Logosmart{
+    width: 50%;
+}
+.Logosmart img{
+    margin-top: 1%;
+    width: 25%;
+    margin-left: 89%;
+}
+
+.mucluc {
+    display: flex;
+    justify-content: center;
+    background-color: #2EC5BE;
+}
+
+.mucluc .ml{
+    margin-left: 4%;
+}
+
+.p1{
+    display: flex;
+    background-color: #F4F4F4;
+    margin: 1.5%;
+}
+
+.p1 .p1t{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.p1 .p1t .cauhoi{
+    margin-left: 55%;
+    font-size: 25px;
+    letter-spacing: -1px;
+}
+
+
+.p1 .p1t .noidung{
+    line-height: 30px;
+    font-size: 88%;
+}
+
+.p1 img{
+    width: 50%;
+}
+
+.p2{
+    display: flex;
+}
+
+.p2 .p2_head1{
+    margin-left: 20%;
+    color: #2EC5BE;
+}
+
+.p2 .p2_head2{
+    margin-left: 30%;
+    color: #2EC5BE;
+}
+
+.p3{
+    display: flex;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.p3 .anh1{
+    background-color: #F4F4F4;
+    margin-right: 2%;
+    width: 24%;
+}
+
+.p3 .anh1 img{
+    width: 85%;
+    margin-left: 7.5%;
+    margin-top: 7%;
+}
+
+.p3 .anh1 .tensp{
+    font-weight: bold;
+    margin-left: 25%;
+}
+
+.p3 .gia1{
+    display: flex;
+}
+
+.p3 .anh1 .gia1 span{
+    margin-left: 35%;
+    margin-top: 5.2%;
+    text-decoration-line: line-through;
+}
+
+.p3 .anh1 .gia1 p{
+    margin-left: 11%;
+    color: red;
+    font-weight: bold;
+}
+
+.p3 .anh1 input{
+    margin-left: 35%;
+    background-color: #f57c00;
+    color: white;
+    border: none;
+    padding: 15px 15px;
+    font-size: 1rem;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-bottom: 10%;
+}
+
+.p3 .anh2{
+    background-color: #F4F4F4;
+    margin-right: 2%;
+    width: 24%;
+}
+
+.p3 .anh2 img{
+    width: 85%;
+    margin-left: 7.5%;
+    margin-top: 7%;
+}
+
+.p3 .anh2 .tensp{
+    font-weight: bold;
+    margin-left: 35%;
+}
+
+.p3 .gia2{
+    display: flex;
+}
+
+.p3 .anh2 .gia2 span{
+    margin-left: 35%;
+    margin-top: 5.2%;
+    text-decoration-line: line-through;
+}
+
+.p3 .anh2 .gia2 p{
+    margin-left: 11%;
+    color: red;
+    font-weight: bold;
+}
+
+.p3 .anh2 input{
+    margin-left: 35%;
+    background-color: #f57c00;
+    color: white;
+    border: none;
+    padding: 15px 15px;
+    font-size: 1rem;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-bottom: 10%;
+}
+
+.bang{
+    margin-left: 6%;
+    border-collapse: collapse;
+    width: 101%;
+    height: 100%;
+    
+}
+
+.bang thead{
+    background-color: #2CC5C1 ;
+    color: white;
+    height: 15%;
+}
+
+.bang tbody{
+    font-size: 110%;
+    margin-left: 5%;
+}
+
+.p3 .p3_1 .bang td{
+    padding: 0 10px 0 10px;
+    border: 1px solid black;
+}
+
+.p4{
+    background: rgb(235, 235, 235);
+    margin: 2%
+}
+
+.p4 h1{
+    display: flex;
+    justify-content: center;
+    color: #14A79F;
+    padding-top: 20px;
+}
+
+.p4 .muctt{
+    display: flex;
+}
+
+.p4 img{
+    width: 160%;
+    margin-left: 5%;
+}
+
+.noidientt{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.noidientt p{
+    margin-left: 200px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tt{
+    display: flex;
+    margin-left: -30%;
+    gap: 20px;
+    padding-bottom: 20px;
+}
+
+.tt label{
+    color: #F79432;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 40%;
+    margin-top: 1%;
+}
+
+.tt input{
+    width: 400px;
+    height: 35px;
+    
+}
+
+.tt input.name{
+    margin-left: 38px;
+}
+
+.tt input.phone{
+    margin-left: 70px;
+    
+}
+
+.tt input.address{
+    margin-left: 53px;
+}
+
+.luachon{
+    margin-left: 22%;
+}
+.luachon button{
+    background: #F79432;
+    color: white;
+    border: none;
+    padding: 27px 60px 27px 60px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+
+.footer{
+    color: white;
+    background: #14A79F;
+    padding: 5px 0 5px 0px;
+    margin-top: 20px;
+}
+
+.footer p{
+    display: flex;
+    justify-content: center;
+}
+
+.footer h4{
+    display: flex;
+    justify-content: center;
+}
